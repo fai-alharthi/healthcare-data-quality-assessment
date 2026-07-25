@@ -1,0 +1,3 @@
+Stage,Total_Rows,Problem_Rows,Quality_Score
+"Before Cleaning",55500,108,99.81
+"After Cleaning",54860,0,100.00
